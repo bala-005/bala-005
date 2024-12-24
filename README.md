@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hello All, I'm <a href="https://in.linkedin.com/in/balamurugan005"><b>Balamurugan !</b></a>.
+<h1 align="center"> Hello All, I'm <a href="https://in.linkedin.com/in/balamurugan005"><b>Balamurugan!</b></a>.
 <h3 align="center">MBA Graduate'24 (Business Analytics) | Data Nerd | Adept @ MySQL - Power BI - Excel  | </h3></h1>
 I am an evolving data analyst with a strong passion for creative learning and problem-solving. </h3>
 <h4></h4>
