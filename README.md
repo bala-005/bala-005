@@ -17,7 +17,7 @@ Skilled in analyzing complex data sets, identifying key insights, and delivering
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
