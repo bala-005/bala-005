@@ -1,4 +1,4 @@
-
+u
 <h1 align="center"> Hello All, I'm <a href="https://in.linkedin.com/in/balamurugan005"><b>Balamurugan!</b></a>.
 <h3 align="center">MBA Graduate'24 (Business Analytics) | Data Nerd | Adept @ MySQL - Power BI - Excel  | </h3></h1>
  Meticulous MBA graduate specializing in Business Analytics, with strong proficiency in data analytics tools and techniques. Passionate about utilizing data to drive informed business decisions and improve organizational performance.  </h3>
@@ -17,7 +17,7 @@ Skilled in analyzing complex data sets, identifying key insights, and delivering
 
 ---
 
-### ✍️ Random Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
